@@ -1,0 +1,12 @@
+.blur-light {
+    position: fixed;
+    width: 150px;
+    height: 150px;
+    background: radial-gradient(circle, rgba(227, 255, 149, 0.4), rgba(227, 255, 149, 0));
+    pointer-events: none;
+    filter: blur(30px);
+    transform: translate(-50%, -50%);
+    z-index: 1000; /* Adjust according to your layout */
+    transition: left 0.1s, top 0.1s;
+  }
+  
