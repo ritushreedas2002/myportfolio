@@ -15,8 +15,7 @@ const AboutMe = () => {
        Today, I work as a FullStack Developer at CodeKenTechLabs, focusing on creating dynamic websites and mobile applications. My expertise with React and my commitment to UI/UX design drive me to develop innovative solutions that enhance user experiences.
       </p>
       <p className="mb-4 text-sm md:text-base hover:text-[#dce4c9]">
-        I graduated in 2023, in Computer Science and currently I am working
-        as a Frontend Developer at Betterhalf.ai, where primarily
+       
       </p>
     </div>
   );
